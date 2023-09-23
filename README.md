@@ -13,3 +13,13 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+```
+wget https://codeshare.io/EBL07N
+```
+
+Git Version
+```
+git --version
+```
